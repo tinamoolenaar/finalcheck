@@ -2,4 +2,10 @@
 body { font-family: Courgette; background-color: #ffffff; }
 h1 { font-size: 20px; margin: 1em 0;}
 p {line-height: 1.4;}
-a { color: #F20953;}
+a { color: #E50CBF;}
+
+.imageColumn {
+   float: left;
+   width: 25%;
+   padding: 10px;
+}
