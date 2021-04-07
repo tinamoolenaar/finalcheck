@@ -3,8 +3,8 @@ body { font-family: Courgette; background-color: #ffffff; }
 h1 { font-size: 20px; margin: 1em 0;}
 p {line-height: 1.4;}
 a { color: #F20953;}
-
-.imageColumn {
+	
+.col-md-6 img {
    float: right ;
   width: 33.33%;
   padding: 1000 px;
